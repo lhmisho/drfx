@@ -89,3 +89,4 @@ website/website/settings/settings.py
 
 .vscode/
 .idea/
+.idea
